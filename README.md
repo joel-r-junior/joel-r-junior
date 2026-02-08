@@ -50,15 +50,6 @@ I’m deeply focused on **clean architecture, SQL performance, and business-driv
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=joel-r-junior&show_icons=true&theme=tokyonight&count_private=true" alt="Joel's Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joel-r-junior&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
----
-
 ## 🚀 Philosophy
 
 > _"Code is not just about solving problems.  

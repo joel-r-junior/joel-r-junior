@@ -16,7 +16,6 @@ I’m deeply focused on **clean architecture, SQL performance, and business-driv
 -   ⚡ **SQL Optimization** & Database Modeling
 -   🧩 **Clean Code** & System Architecture
 -   🔐 **Secure APIs** (Sanctum/JWT) & Authentication
--   🤖 **Automation** & Smart Home Integration (IoT enthusiast)
 
 ---
 

@@ -1,9 +1,10 @@
 # Hi 👋, I'm Joel Jr.
 
-**Fullstack Developer | PHP (Laravel) & JavaScript Specialist** 🇧🇷 Brazil
+**Fullstack Developer | PHP (Laravel) & JavaScript Specialist** 
+🇧🇷 Brazil
 
 I build **SaaS platforms**, **corporate systems**, and **scalable web solutions**.  
-With a background in **Information Systems**, I have strong experience developing critical software for **Notary Services (Cartórios)** and modern SaaS products.
+With a background in **Information Systems**, I have extensive experience in modern SaaS products and maintaining critical software for Notary Offices.
 
 I’m deeply focused on **clean architecture, SQL performance, and business-driven solutions**.
 
@@ -64,5 +65,5 @@ I’m deeply focused on **clean architecture, SQL performance, and business-driv
 > It's about building solutions that scale, simplify operations, and generate real value."_
 
 ---
-  
+
 🤝 Always open to collaborations and partnerships

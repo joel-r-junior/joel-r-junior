@@ -13,7 +13,7 @@ I’m deeply focused on **clean architecture, SQL performance, and business-driv
 ## 🧠 What I do
 
 -   🏗️ **SaaS Development** (Laravel + Next.js)
--   🏛️ **Notary & Legal Systems** (High reliability)
+-   🏛️ **Notary & Legal Systems**
 -   ⚡ **SQL Optimization** & Database Modeling
 -   🧩 **Clean Code** & System Architecture
 -   🔐 **Secure APIs** (Sanctum/JWT) & Authentication

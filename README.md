@@ -64,6 +64,5 @@ I’m deeply focused on **clean architecture, SQL performance, and business-driv
 > It's about building solutions that scale, simplify operations, and generate real value."_
 
 ---
-
-⭐ If you like my work, consider starring a repository  
+  
 🤝 Always open to collaborations and partnerships
